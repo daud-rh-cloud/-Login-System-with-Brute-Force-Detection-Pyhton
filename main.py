@@ -28,7 +28,7 @@ while user_input != "4":
         
         print ("User Succecfully Created! ")
         users [Username]= Password
-        attemmts[Username] = 0 
+        attemmts[Username] = 0 ### Assining a early value to track password attempt later!
 
     elif user_input == "2": 
         username_login = input("Enter the username: ")
