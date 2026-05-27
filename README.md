@@ -36,3 +36,10 @@ If not, you will be asked to enter a new password.
 Every failed login attempt is tracked per user
 After 6 failed attempts, the account is permanently locked
 Locked accounts cannot log in even with the correct password
+
+🧠 Concepts i learned - 
+ Dictionary
+ while loop
+ for loop
+ len() , .islower()
+ 
