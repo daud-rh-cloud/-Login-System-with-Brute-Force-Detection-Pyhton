@@ -14,7 +14,7 @@ Exit the program cleanly
 
 🚀 How to Run
 Make sure you have Python installed, then run:
-bashpython main.py
+python main.py
 
 🗂️ Menu Options
 === Login System ===
